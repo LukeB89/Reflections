@@ -4,7 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	the staging area is a spot holder for which files wille be comitted to the history of the repository. it allows us to pic and choes which files in the working directory we are tracking.
+	the staging area is a spot holder for which files wille be comitted to the history of the repository. it allows us to pic and choes which files in the working directory we are tracking. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
