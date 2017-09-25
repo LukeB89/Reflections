@@ -8,9 +8,13 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	by using git diff and git diff --staged you can check to see what changes that you are commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	creating multiple versions of a game. this would help as you could have the base functionality code working and then make the alterations that are needed to get the new version working in each branch.
+	
 
 How do the diagrams help you visualize the branch structure?
 
