@@ -17,6 +17,7 @@ organized? How would branches help?
 	
 
 How do the diagrams help you visualize the branch structure?
+	by drawing the diagram you can see that git does not just save things linearly but can alter in multiple different directions.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
